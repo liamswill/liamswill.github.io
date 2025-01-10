@@ -6,6 +6,7 @@ The CTGP Ghost Database Bot (“the Bot”) values your privacy. This Privacy Po
 
 The Bot may collect the following data:
 - Discord user IDs and server IDs
+- CTGP Time Trial Player IDs
 - Command inputs
 - Optional user-provided data (e.g., custom settings or preferences)
 
