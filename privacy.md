@@ -1,4 +1,4 @@
-## Privacy Policy
+## CTGP Ghost Database Bot Privacy Policy
 
 The CTGP Ghost Database Bot (“the Bot”) values your privacy. This Privacy Policy explains how we collect, use, and protect your data when you use the Bot on Discord.
 
