@@ -9,7 +9,7 @@ The CTGP Ghost Database Bot ("the Bot") provides Time Trial data and related fun
 - By adding the CTGP Ghost Database bot to a Discord Server, you are agreeing to these terms of service and future terms which can change following a notice.
 
 ## Privacy
-- Data linked to the Bot is processed as described in the [Privacy Policy](privacy)
+- Data linked to the Bot is processed as described in the [Privacy Policy](privacy).
 
 ## Terms of Use
 
