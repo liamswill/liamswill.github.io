@@ -1,6 +1,6 @@
-# Privacy Policy
+## Privacy Policy
 
-### The CTGP Ghost Database Bot (“the Bot”) values your privacy. This Privacy Policy explains how we collect, use, and protect your data when you use the Bot on Discord.
+The CTGP Ghost Database Bot (“the Bot”) values your privacy. This Privacy Policy explains how we collect, use, and protect your data when you use the Bot on Discord.
 
 ## Data Collection
 
@@ -34,7 +34,7 @@ You have the right to:
 - Request access to your data.
 - Request deletion of your data.
 
-### To exercise these rights, contact us at @liamwill on Discord, @liamswill_ on X.
+To exercise these rights, contact us at @liamwill on Discord, @liamswill_ on X.
 
 ## Changes to This Policy
 
